@@ -1,0 +1,17 @@
+div.main {
+    background-color: rgb(242, 203, 203);
+    width: 400px;
+    margin: 100px auto 0px auto;
+    text-align: center;
+    border-radius: 15px;
+    padding: 30px;
+  }
+  h2{
+    padding: 30px;
+    text-align: center;
+  }
+  #pass {
+    border-color: bisque;
+    border-radius: 9px;
+
+  }

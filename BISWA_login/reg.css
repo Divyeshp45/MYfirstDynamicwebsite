@@ -1,0 +1,46 @@
+* {
+  margin: 2px;
+  padding: 0;
+}
+body {
+  background-image: url("regbg.jpg");
+  background-size: 1000%;
+  background-position: -400px 0px;
+}
+div.main {
+  width: 400px;
+  margin: 100px auto 0px auto;
+}
+h2 {
+  text-align: center;
+  padding: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+div.register {
+  background-color: rgb(238, 146, 118);
+  width: 100%;
+  font-size: 18px;
+  border-radius: 19px;
+}
+form#Register {
+  margin: 40px;
+}
+
+input#name {
+  width: 300px;
+  border: 1px solid;
+  border-radius: 10px;
+  outline: 0;
+  padding: 7px;
+  box-shadow: inset 1px 1px 5px rgb(249, 167, 167);
+}
+
+input#submit{
+    width:200px;
+    padding: 7px;
+    font-size: 16px;
+    border-radius: 5px;
+    padding-left: 23px;
+    cursor: pointer;
+    
+}
