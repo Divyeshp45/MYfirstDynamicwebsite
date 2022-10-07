@@ -1,0 +1,6 @@
+student_fname=models.CharField(max_length=30)
+    student_lname=models.CharField(max_length=30)
+    email=models.EmailField(max_length=100)
+    mobile_no=models.PositiveIntegerField()
+    aadhar_no=models.PositiveIntegerField()
+    college_registerid=models.PositiveIntegerField()
